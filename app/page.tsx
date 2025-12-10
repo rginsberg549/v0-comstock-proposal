@@ -909,7 +909,7 @@ export default function SalesProposal() {
           </div>
           <div className="mt-8 text-white/80 text-sm space-y-1">
             <p>Prepared for <span className="font-medium text-white">Comstock Magazine Editorial & Business Leadership</span></p>
-            <p className="text-white/60 mt-2">December 2024</p>
+            <p className="text-white/60 mt-2">December 2025</p>
           </div>
         </div>
       </section>
